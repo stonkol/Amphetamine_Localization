@@ -151,8 +151,8 @@ Amphetamine是至今为macOS创建的功能最强大、可定制的保持唤醒�
 
 
 
-=== 系统要求+ 其他细节===
+=== 系统要求+其他细节===
 
-• 运行Amphetamin需要macOS 10.11 El Capitan或更高版本； 某些功能需要更高的macOS版本
+• 运行Amphetamine需要macOS 10.11 El Capitan或更高版本；某些功能需要更高的macOS版本
 
-• Amphetamin支持Retina显示屏和macOS深色模式
+• Amphetamine支持Retina显示屏和macOS深色模式
