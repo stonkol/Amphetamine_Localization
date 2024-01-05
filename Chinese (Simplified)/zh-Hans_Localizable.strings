@@ -1240,7 +1240,7 @@
 
 // WELCOME WINDOW #1
 "ww1_lbl_welcome" = "欢迎使用Amphetamine";
-"ww1_lbl_credit" = "Created with ♥ by William Gustafson";
+"ww1_lbl_credit" = "William Gustafson用♥创造出来的";
 
 // ** NOTE: DO NOT REMOVE '\n' **
 "ww1_lbl_message" = "\nAmphetamine是适用于macOS的一款超棒、强大而灵活的免睡眠实用程序。\n在具备多种功能和选项的同时，Amphetamine仍然保持简单易用。\n\n只需几个简单的步骤即可上手Amphetamine。单击下一步开始吧。";
@@ -1279,7 +1279,7 @@
 "ww4_bttn_learn_triggers" = "单击此处了解有关触发器的更多信息";
 
 // WELCOME WINDOW #5
-"ww5_lbl_title" = "感谢使用Amphetamine，朋友。";
+"ww5_lbl_title" = "伙伴，感谢你使用Amphetamine。";
 "ww5_lbl_subtitle" = "Amphetamine因热爱而生。";
 
 // ** NOTE: DO NOT REMOVE '\n' **
